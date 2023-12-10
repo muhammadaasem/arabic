@@ -40,3 +40,30 @@
 | Can you take a shorter route to reduce the cost? | هل يمكنك أخذ طريق أقصر لتقليل التكلفة؟             |
 | I'm in a hurry, please take the fastest route.   | أنا في عجلة من أمري، من فضلك خذ أسرع طريق.          |
 
+
+### Weekdays and Months
+| English      | Arabic        |
+|--------------|---------------|
+| Sunday       | الأحد (Al-Ahad)       |
+| Monday       | الإثنين (Al-Ithnayn)  |
+| Tuesday      | الثلاثاء (Al-Thulatha') |
+| Wednesday    | الأربعاء (Al-Arba'aa)  |
+| Thursday     | الخميس (Al-Khamis)   |
+| Friday       | الجمعة (Al-Jumu'ah)   |
+| Saturday     | السبت (As-Sabt)      |
+
+| English      | Arabic              |
+|--------------|---------------------|
+| January      | يناير (Yanayer)     |
+| February     | فبراير (Febrayer)   |
+| March        | مارس (Mares)        |
+| April        | أبريل (Abeel)       |
+| May          | مايو (Mayo)         |
+| June         | يونيو (Yonyo)       |
+| July         | يوليو (Yolyo)       |
+| August       | أغسطس (Aghustus)    |
+| September    | سبتمبر (Sibtimber)  |
+| October      | أكتوبر (Oktober)    |
+| November     | نوفمبر (Novimber)   |
+| December     | ديسمبر (Disimber)   |
+
