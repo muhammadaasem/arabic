@@ -22,3 +22,21 @@
 | I really like it, but it's beyond my budget.    | أنا حقاً أحبه، لكنه يتجاوز ميزانيتي.                |
 | Can you match the price I saw elsewhere?        | هل يمكنك مطابقة السعر الذي رأيته في مكان آخر؟      |
 | This is a bit more than I expected.             | هذا أكثر بقليل مما كنت أتوقع.                       |
+
+### Taxi Ride Negotiation
+
+| English Phrase                                   | Arabic Translation                                   |
+|--------------------------------------------------|------------------------------------------------------|
+| How much to go to ___________?                   | بكم للذهاب إلى ___________؟                          |
+| That seems a bit expensive. Can it be cheaper?   | يبدو هذا غالياً قليلاً. هل يمكن أن يكون أرخص؟       |
+| I usually pay around _____ for this route.       | عادةً ما أدفع حوالي _____ لهذا المسار.               |
+| Is there a flat rate for this destination?       | هل هناك تعريفة موحدة لهذه الوجهة؟                   |
+| Can we agree on _____?                           | هل يمكننا الاتفاق على _____؟                        |
+| That's more than I expected.                     | هذا أكثر مما كنت أتوقع.                             |
+| I have only _____ with me. Would that work?      | لدي فقط _____ معي. هل هذا يعمل؟                     |
+| I'll find another taxi if it's too much.         | سأجد تاكسي آخر إذا كان السعر مرتفعاً.               |
+| Okay, let's go for _____ then.                   | حسناً، لنذهب إذاً مقابل _____ .                     |
+| That's a fair price, thank you.                  | هذا سعر عادل، شكراً لك.                             |
+| Can you take a shorter route to reduce the cost? | هل يمكنك أخذ طريق أقصر لتقليل التكلفة؟             |
+| I'm in a hurry, please take the fastest route.   | أنا في عجلة من أمري، من فضلك خذ أسرع طريق.          |
+
