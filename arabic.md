@@ -67,3 +67,26 @@
 | November     | نوفمبر (Novimber)   |
 | December     | ديسمبر (Disimber)   |
 
+
+| Number | English  | Arabic    |
+|--------|----------|-----------|
+| 1      | One      | واحد (Wahid)      |
+| 2      | Two      | اثنان (Ithnan)    |
+| 3      | Three    | ثلاثة (Thalatha)  |
+| 4      | Four     | أربعة (Arba'a)    |
+| 5      | Five     | خمسة (Khamsa)     |
+| 6      | Six      | ستة (Sitta)       |
+| 7      | Seven    | سبعة (Sab'a)      |
+| 8      | Eight    | ثمانية (Thamaniya)|
+| 9      | Nine     | تسعة (Tis'a)      |
+| 10     | Ten      | عشرة (Ashara)     |
+| 20     | Twenty       | عشرون (Ishroon)         |
+| 30     | Thirty       | ثلاثون (Thalathoon)     |
+| 40     | Forty        | أربعون (Arba'oon)       |
+| 50     | Fifty        | خمسون (Khamsun)         |
+| 60     | Sixty        | ستون (Sittun)           |
+| 70     | Seventy      | سبعون (Sab'oon)         |
+| 80     | Eighty       | ثمانون (Thamanoon)      |
+| 90     | Ninety       | تسعون (Tis'oon)         |
+| 100    | One Hundred  | مائة (Mi'a)             |
+
